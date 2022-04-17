@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="textoInicio">0</string>
+    <string name="buttonClear">C</string>
+    <string name="buttonSigno">+/-</string>
+    <string name="buttonPorcentaje">%</string>
+    <string name="buttonDivide">/</string>
+
+</resources>
